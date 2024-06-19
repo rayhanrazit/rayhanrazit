@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayhan razit
 - 👀 I’m interested in Software development
 - 📫 How to reach me (idk)
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: nothing
 
 <!---
