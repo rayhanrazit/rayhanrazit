@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rayhan razit
+- 👋Hi, I’m @rayhan razit
 - 👀 I’m interested in Software development
-- 😄 Pronouns: he/him
+-
 
 
 <!---
