@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, 👋, I'm Rayhan Razit</h1>
-<h3 align="center">Passionate developer: coding with heart, debugging with tears : )</h3>
+<h3 align="center">Let’s make something weirdly cool 👾</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhanrazit" alt="rayhanrazit" /></a> </p>
 
